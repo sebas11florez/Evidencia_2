@@ -1,1 +1,3 @@
-prueba #2 edit
+primer caracteristica
+segunda caracteristica
+tercera caracteristica
