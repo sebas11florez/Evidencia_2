@@ -1,0 +1,11 @@
+a) Ventaja de GitFlow:
+
+-Organización de Ramas: GitFlow define una estructura clara de ramas para características, lanzamientos y correcciones.
+-Versionado Controlado: Permite etiquetar versiones específicas y crear lanzamientos estables.
+
+
+b) Ventajas de GitHub en Desarrollo Colaborativo:
+
+-Colaboración Eficiente: Facilita la colaboración entre desarrolladores mediante revisiones de código y seguimiento de problemas.
+-Automatización de Tareas: GitHub Actions permite automatizar flujos de trabajo.
+-Comunidad Activa: Ofrece una comunidad activa para compartir proyectos y aprender de otros.
